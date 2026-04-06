@@ -1,4 +1,4 @@
-# JHipster README 한국어 번역
+# JHipster README 
 
 [![Logo][jhipster-image]][jhipster-url]
 
